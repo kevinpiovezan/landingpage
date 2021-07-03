@@ -1,4 +1,4 @@
-# landingpage
+# Landing Page
 Hi! This is one of my first study projects.
 I made a simple landing page with HTML5 and CSS.
 I hope you like it, later on I will be publishing more interest things.
